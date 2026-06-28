@@ -46,8 +46,6 @@ const App = () => {
     }
   ]
 
-  console.log(courses)
-
   return (
     <div>
       <h1>Web development curriculum</h1>
